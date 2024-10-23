@@ -1408,7 +1408,7 @@ Knapsack,A Pointer Network Based Deep Learning Algorithm  for 0-1 Knapsack Probl
 
     *Scavuzzo, Lara, F. Chen, Didier Ch'etelat, Maxime Gasse, Andrea Lodi, N. Yorke-Smith and Karen Aardal.*
 
-36. **A Deep Reinforcement Learning Framework For Column Generation** Arxiv, 2022. [paper](https://arxiv.org/abs/2206.02568)
+36. **A Deep Reinforcement Learning Framework For Column Generation** Arxiv, 2022. [paper](https://arxiv.org/abs/2206.02568), [code](https://github.com/khalil-research/RLCG)
 
     *Chi, Cheng, Amine Mohamed Aboussalah, Elias Boutros Khalil, Juyoung Wang and Zoha Sherkat-Masoumi.*
 
